@@ -52,8 +52,6 @@ typings/
 *.tgz
 
 # dotenv environment variables file
-.env
-.env.*
 
 # gatsby files
 .cache/
@@ -73,3 +71,4 @@ yarn-error.log
 static/static/thumbnail/*.jpg
 !static/static/thumbnail/thumbnail.jpg
 .idea/*
+config.bat
